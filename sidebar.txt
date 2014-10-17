@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[raq:home|Door43 (raq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-raq|d43-raq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-raq/archive/master.zip|d43-raq.zip]]
+
+**Recent Changes**
+{{changes>ns = raq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/raq|Ethnologue data]]
+
